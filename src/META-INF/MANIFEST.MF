@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Class-Path: YahooFinanceAPI-3.15.0.jar slf4j-api-2.0.0-alpha1.jar javaco
+ rd-3.1.2-shaded.jar
+
